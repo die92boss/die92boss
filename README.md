@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing.
+Currently Studying CS
 
 
 ## 🌐 Socials:
